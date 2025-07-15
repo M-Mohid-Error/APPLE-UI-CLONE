@@ -35,8 +35,9 @@ This project was part of my personal learning journey. I wanted to:
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png)  
-*(Replace this with an actual screenshot of your UI clone)*
+(screenshot.png)  
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/2f663829-782d-43c2-b4c6-c89feff53dae" />
+
 
 ---
 
