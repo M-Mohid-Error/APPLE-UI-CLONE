@@ -35,7 +35,7 @@ This project was part of my personal learning journey. I wanted to:
 
 ## 📸 Preview
 
-(screenshot.png)  
+Looks somehow like this  
 <img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/2f663829-782d-43c2-b4c6-c89feff53dae" />
 
 
